@@ -1,0 +1,660 @@
+*{
+
+    padding: 0px;
+    
+    margin: 0px;
+    
+    }
+    
+    
+    
+    
+    body{
+    
+    background-image: url("black-1072366_1920.jpg");
+    
+    background-repeat: repeat;
+    
+    }
+    
+        
+        .contenedor{
+        
+         
+        
+        height: 1000px;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+        }
+        .contenedor2{
+        
+         
+        
+            height: 1000px;
+            font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+            
+             
+            
+            }
+        .texto{
+        
+        font-size: 40px;
+        
+        text-align: justify;
+        
+        color: rgb(255, 255, 255);
+        font-family: 'Nosifer', sans-serif;
+font-family: 'Pacifico', cursive;
+font-family: 'Playfair Display', serif;
+font-family: 'Poppins', sans-serif;
+        
+         
+        
+        }
+        
+    
+        .contenido{
+
+            height: 280px;
+            width: 100%;
+            float: right;
+            position: absolute;
+            color: white;
+            top: 410px;
+            
+             
+            
+            }
+            
+            .imagentecno{
+    
+     
+    
+                background-repeat: no-repeat;
+                
+                float:left;
+                
+                height: 200px;
+                
+                width: 260px;
+                
+                margin-left: 5px;
+                
+                margin-right:5px;
+                
+                background-image: url(operador\ elect.png);
+                
+                
+                }
+                
+                
+                
+                .textotecno{
+                
+                text-align: justify;
+                color: rgb(255, 255, 255);
+                font-size: 20px;
+                font-family: 'Nosifer', sans-serif;
+font-family: 'Pacifico', cursive;
+font-family: 'Playfair Display', serif;
+font-family: 'Poppins', sans-serif;
+            
+                }
+
+                .giftecno{
+    
+     
+    
+                    background-repeat: no-repeat;
+                    
+                    float:right;
+                    
+                    height: 200px;
+                    
+                    width: 260px;
+                    
+                    margin-left: 5px;
+                    
+                    margin-right:5px;
+                    
+                    background-image: url(ezgif.com-gif-maker.gif);
+                    
+                    
+                    }
+            
+                .contenido{
+
+                    height: 280px;
+                    
+                    width: 100%;
+                    float: right;
+                    position: absolute;
+                    color: white;
+                    top: 410px;
+                    
+                     
+                    
+                    }
+                    
+                    .imagensociales{
+            
+             
+            
+                        background-repeat: no-repeat;
+                        
+                        float:left;
+                        
+                        height: 200px;
+                        
+                        width: 260px;
+                        
+                        margin-left: 5px;
+                        
+                        margin-right:5px;
+                        
+                        background-image: url(REV\ FRANCESA.jpg);
+                        
+                        }
+                        
+                        
+                        
+                        .textosociales{
+                        
+                        text-align: justify;
+                        
+                        color: rgb(255, 255, 255);
+
+                        font-size: 20px;
+                        font-family: 'Nosifer', sans-serif;
+font-family: 'Pacifico', cursive;
+font-family: 'Playfair Display', serif;
+font-family: 'Poppins', sans-serif;
+                    
+                        }
+                    
+                        .contenido{
+
+                            height: 280px;
+                            
+                            width: 100%;
+                            
+                            position: absolute;
+                            
+                            top: 410px;
+                            
+                             
+                            
+                            }
+                            
+                             
+                            
+                            .imagenmatematicas{
+                            
+                             
+                            
+                            background-repeat: no-repeat;
+                            
+                            float:left;
+                            
+                            height: 200px;
+                            
+                            width: 260px;
+                            
+                            margin-left: 5px;
+                            
+                            margin-right:5px;
+                            
+                            background-image: url(POLINOMIOS.jpg);
+                            
+                            }
+                            
+                            
+                            
+                            .textomatematicas{
+                            
+                            text-align: justify;
+                            
+                            color: azure;
+                            
+                            font-size: 20px;
+                            font-family: 'Nosifer', sans-serif;
+font-family: 'Pacifico', cursive;
+font-family: 'Playfair Display', serif;
+font-family: 'Poppins', sans-serif;
+                            
+                            
+                            
+                            }
+
+                            .contenido{
+
+                                height: 280px;
+                                
+                                width: 100%;
+                                float: right;
+                                position: absolute;
+                                color: white;
+                                top: 410px;
+                                
+                                 
+                                
+                                }
+                                
+                                .imageningles{
+                        
+                         
+                        
+                                    background-repeat: no-repeat;
+                                    
+                                    float:left;
+                                    
+                                    height: 200px;
+                                    
+                                    width: 260px;
+                                    
+                                    margin-left: 5px;
+                                    
+                                    margin-right:5px;
+                                    
+                                    background-image: url(ENFERMEDADES.jpg);
+                                    
+                                    }
+                                    
+                                    
+                                    
+                                    .textoingles{
+                                    
+                                    text-align: left;
+                                    
+                                    color: rgb(255, 255, 255);
+                                    font-size: 15px;
+                                    font-family: 'Nosifer', sans-serif;
+font-family: 'Pacifico', cursive;
+font-family: 'Playfair Display', serif;
+font-family: 'Poppins', sans-serif;
+                                
+                                    }
+                            
+                                    .contenido{
+
+                                        height: 280px;
+                                        
+                                        width: 100%;
+                                        float: right;
+                                        position: absolute;
+                                        color: white;
+                                        top: 410px;
+                                        
+                                         
+                                        
+                                        }
+                                        
+                                        .imageningles2{
+                                
+                                 
+                                
+                                            background-repeat: no-repeat;
+                                            
+                                            float:left;
+                                            
+                                            height: 200px;
+                                            
+                                            width: 260px;
+                                            
+                                            margin-left: 5px;
+                                            
+                                            margin-right:5px;
+                                            
+                                            background-image: url( );
+                                            
+                                            }
+                                            
+                                            
+                                            
+                                            .textoingles2{
+                                            
+                                            text-align: right;
+                                            
+                                            color: rgb(0, 255, 128);
+                                            font-size: 15px;
+                                        
+                                            }
+                    
+                            
+                            
+                            
+                                    .contenido{
+
+                                        height: 280px;
+                                        
+                                        width: 100%;
+                                        float: right;
+                                        position: absolute;
+                                        color: white;
+                                        top: 410px;
+                                        
+                                         
+                                        
+                                        }
+                                        
+                                        .imagenreligion{
+                                
+                                 
+                                
+                                            background-repeat: no-repeat;
+                                            
+                                            float:left;
+                                            
+                                            height: 200px;
+                                            
+                                            width: 260px;
+                                            
+                                            margin-left: 5px;
+                                            
+                                            margin-right:5px;
+                                            
+                                            background-image: url(HINDUISMO.jpg);
+                                            
+                                            }
+                                            
+                                            
+                                            
+                                            .textoreligion{
+                                            
+                                            text-align: left;
+                                            
+                                            color: rgb(145, 255, 0);
+                                            font-size: 15px;
+                                            font-family: 'Nosifer', sans-serif;
+font-family: 'Pacifico', cursive;
+font-family: 'Playfair Display', serif;
+font-family: 'Poppins', sans-serif;
+                                        
+                                            }  
+
+                                            .contenido{
+
+                                                height: 280px;
+                                                
+                                                width: 100%;
+                                                float: right;
+                                                position: absolute;
+                                                color: white;
+                                                top: 410px;
+                                                
+                                                 
+                                                
+                                                }
+                                                
+                                                .imagenreligion2{
+                                        
+                                         
+                                        
+                                                    background-repeat: no-repeat;
+                                                    
+                                                    float:left;
+                                                    
+                                                    height: 200px;
+                                                    
+                                                    width: 260px;
+                                                    
+                                                    margin-left: 5px;
+                                                    
+                                                    margin-right:5px;
+                                                    
+                                                    background-image: url(HINDUISMO.jpg);
+                                                    
+                                                    }
+                                                    
+                                                    
+                                                    
+.textoreligion2{    
+text-align: right;                     
+color: rgb(255, 255, 255);
+font-size: 15px;
+}  
+                                            
+ .contenido{
+height: 200px;                                      
+width: 100%;
+float: right;
+position: absolute;
+color: white;
+top: 290px;                                    
+                                                
+}
+                                                
+.imagenbiologia{   
+background-repeat: no-repeat;                                
+float:left;                                      
+height: 200px;                                     
+width: 260px;                                     
+margin-left: 5px;                                    
+margin-right:5px;                                     
+background-image: url(HEMOFILIA.jpg);
+                                                    
+ }
+                                                    
+.textobiologia{
+text-align: justify;
+color: rgb(255, 255, 255);
+font-size: 16px;
+font-family: 'Nosifer', sans-serif;
+font-family: 'Pacifico', cursive;
+font-family: 'Playfair Display', serif;
+font-family: 'Poppins', sans-serif;
+                                                
+ }    
+.contenido{
+    height: 200px;                                      
+    width: 100%;
+    float: right;
+    position: absolute;
+    color: white;
+    top: 290px;                                    
+                                                    
+}
+.textoingles1{
+        
+font-size: 19px;
+        
+text-align: left;
+        
+color: rgb(255, 255, 255); 
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+.imageningles1{   
+    background-repeat: no-repeat;                                
+    float:left;                                      
+    height: 300px;                                     
+    width: 500px;                                     
+    margin-left: 5px;                                    
+    margin-right:5px;                                     
+    background-image: url(trata\ a\ los\ demas\ regla\ de\ oro.jpg);
+                                                        
+     }
+.imageningles22{   
+background-repeat: no-repeat;                                
+float:left;                                      
+height: 300px;                                     
+width: 500px;                                     
+margin-left: 5px;                                    margin-right:5px;                                     
+background-image: url(descarga.png);
+                                                                
+}
+.imageningles3{   
+    background-repeat: no-repeat;                                
+    float:left;                                      
+    height: 250px;                                     
+    width: 400px;                                     
+    margin-left: 5px;                                    margin-right:5px;                                     
+    background-image: url(Ofensa.jpg);
+                                                                    
+ }
+ 
+ .imageningles4{   
+    background-repeat: no-repeat;                                
+    float:left;                                      
+    height: 300px;                                     
+    width: 500px;                                     
+    margin-left: 5px;                                    margin-right:5px;                                     
+    background-image: url(foto-bannerweb-prevencionviolencia_1.webp);
+                                                                    
+ }
+ .imageningles5{   
+    background-repeat: no-repeat;                                
+    float:left;                                      
+    height: 400px;                                     
+    width: 800px;                                     
+    margin-left: 5px;                                    margin-right:5px;                                     
+    background-image: url(Diversidad.jpg);
+                                                                    
+ }
+ .imageningles6{   
+    background-repeat: no-repeat;                                
+    float:left;                                      
+    height: 350px;                                     
+    width: 750px;                                     
+    margin-left: 5px;                                    margin-right:5px;                                     
+    background-image: url(rtve-1.png);
+                                                                    
+ }
+ .imageningles7{   
+    background-repeat: no-repeat;                                
+    float:left;                                      
+    height: 150px;                                     
+    width: 400px;                                     
+    margin-left: 5px;                                    margin-right:5px;                                     
+    background-image: url(images.jpg);
+                                                                    
+ } 
+ .imageningles8{   
+    background-repeat: no-repeat;                                
+    float:left;                                      
+    height: 700px;                                     
+    width: 600px;                                     
+    margin-left: 5px;                                    margin-right:5px;                                     
+    background-image: url(images5_70.jpg);
+                                                                    
+ } 
+ .contenido{
+    height: 200px;                                      
+    width: 100%;
+    float: right;
+    position: absolute;
+    color: white;
+    top: 290px;                                    
+                                                    
+    }
+                                                    
+    .imagenbiologia3{   
+    background-repeat: no-repeat;                                
+    float:left;                                      
+    height: 500px;                                     
+    width: 600px;                                     
+    margin-left: 5px;                                    
+    margin-right:5px;                                     
+    background-image: url(ciclo-de-testosterona-efectos.jpg);
+                                                        
+     }
+     .imagenbiologia4{   
+        background-repeat: no-repeat;                                
+        float:right;                                      
+        height: 200px;                                     
+        width: 260px;                                     
+        margin-left: 5px;                                    
+        margin-right:5px;                                     
+        background-image: url(Testosteron.svg.png);
+                                                            
+         }
+                                                        
+    .textobiologia3{
+    text-align: center;
+    color: rgb(255, 255, 255);
+    font-size: 19px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+                                                    
+     }
+                                        
+    
+     .imagensociales1{   
+        background-repeat: no-repeat;                                
+        float:left;                                      
+        height: 880px;                                     
+        width: 500px;                                     
+        margin-left: 5px;                                    
+        margin-right:5px;                                     
+        background-image: url(revolucion\ industrial\ 1.jpg);
+                                                            
+         }
+         .imagensociales2{   
+            background-repeat: no-repeat;                                
+            float:right;                                      
+            height: 880px;                                     
+            width: 500px;                                     
+            margin-left: 5px;                                    
+            margin-right: 37px;                                 
+            background-image: url(revolucion\ 2.jpg);
+             }
+             .imagensociales3{   
+                background-repeat: no-repeat;                                
+                float: left;                                      
+                height: 877px;                                     
+                width: 500px;                                     
+                margin-left: 400px;                                    
+                margin-right:5px;                                     
+                background-image: url(revolucion3.jpg);
+                                                                    
+                 }
+                 .contenido{
+                    height: 200px;                                      
+                    width: 100%;
+                    float: right;
+                    position: absolute;
+                    color: white;
+                    top: 290px;                                    
+                                                                    
+                }
+.textomate1{
+text-align: left;
+color: rgb(255, 255, 255);
+font-size: 19px;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+                                                                    
+}
+.imagenmate1{   
+    background-repeat: no-repeat;                                
+    float:right;                                      
+    height: 270px;                                     
+    width: 500px;                                     
+    margin-left: 5px;                                    
+    margin-right:40px;                                     
+    background-image: url(maxresdefault3.jpg);
+}              
+.imagenmate2{   
+    background-repeat: no-repeat;                                
+    float:right;                                      
+    height: 277px;                                     
+    width: 500px;                                     
+    margin-left: 5px;                                    
+    margin-right:40px;                                     
+    background-image: url(maxresdefault4.jpg);
+}     
+.contenido{
+    height: 200px;                                      
+    width: 100%;
+    float: right;
+    position: absolute;
+    color: white;
+    top: 290px;                                    
+                                                    
+}
+.textotecno3{
+text-align: left;
+color: rgb(255, 255, 255);
+font-size: 19px;
+font-family: 'Courier New', Courier, monospace;
+}
+            
+                
+        
